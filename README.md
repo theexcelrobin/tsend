@@ -1,2 +1,2 @@
 # tsend
-File sender with Telegram API in C++
+Send Files With Telegram API
